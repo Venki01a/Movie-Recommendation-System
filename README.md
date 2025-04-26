@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Venki01a/Movie Recommendation System?style=for-the-badge" alt="GitHub Stars Badge"/>
-  <img src="https://img.shields.io/github/forks/Venki01a/Movie Recommendation System?style=for-the-badge" alt="GitHub Forks Badge"/>
-  <img src="https://img.shields.io/github/issues/Venki01a/Movie Recommendation System?style=for-the-badge" alt="GitHub Issues Badge"/>
-  <img src="https://img.shields.io/github/license/Venki01a/Movie Recommendation System?style=for-the-badge" alt="License Badge"/>
-</p>
-
-
 ---
 # 🎬 Movie Recommendation System
 
@@ -106,7 +98,5 @@ streamlit run app.py
 ---
 
 # 🎥 *"Because great movies deserve great recommendations."* 🎬
-
----
 
 ---
